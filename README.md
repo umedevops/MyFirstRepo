@@ -1,0 +1,2 @@
+# MyFirstRepo
+GIT trainings
